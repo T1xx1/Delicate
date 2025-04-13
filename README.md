@@ -1,6 +1,6 @@
 # Delicate
 
-Some blocks you encounter in survival gameplay cannot be obtained even when using silk touch. Well I want those blocks so I made this datapack.
+Some blocks you encounter in survival gameplay cannot be obtained even with silk touch. Well, I want those blocks, so I made this datapack.
 
 ![](./assets/banner.gif)
 
