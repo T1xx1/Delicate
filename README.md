@@ -2,6 +2,8 @@
 
 Some blocks you encounter in survival gameplay cannot be obtained even when using silk touch. Well I want those blocks so I made this datapack.
 
+![](./assets/banner.gif)
+
 ## We can now obtain
 
 | Block | |
